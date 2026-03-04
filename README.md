@@ -28,7 +28,7 @@ Store basic patient information
 Clean layered architecture (Controller → Service → Repository)
 
 🚀 Running the Project
-git clone https://github.com/your-username/patient-management-api.git
+git clone https://github.com/alaaSnayel/MedicalRecordsBackend
 cd patient-management-api
 mvn spring-boot:run
 🎯 Use Case
